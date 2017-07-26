@@ -1,0 +1,10 @@
+*.s#*
+*.b#*
+*.dri
+*.gpi
+/.project
+/MurataMicroSD_P.png
+*/*.zip
+*.pdf
+.*.lck
+.DS_Store
