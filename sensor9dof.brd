@@ -705,7 +705,7 @@ design rules under a new name.</description>
 <element name="ICON1" library="mylib" package="ICON_OSHW" value="" x="20.1" y="8.1">
 <attribute name="NOT_COMPONENT" value="YES" x="20.1" y="8.1" size="1.7" layer="27" ratio="18" display="off"/>
 </element>
-<element name="ICON2" library="mylib" package="ICON_REVISION2.0" value="" x="26.4" y="7.3">
+<element name="ICON2" library="mylib" package="ICON_REVISION2.0" value="r0.1" x="26.4" y="7.3">
 <attribute name="NOT_COMPONENT" value="YES" x="26.4" y="7.3" size="1.7" layer="27" ratio="18" display="off"/>
 </element>
 <element name="P5" library="mylib" package="PCB_CORNER_NH" value="" x="19" y="9" rot="R270">

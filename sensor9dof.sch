@@ -1139,7 +1139,7 @@ Source: Samtec TSW.pdf</description>
 <part name="SUPPLY4" library="mylib" deviceset="GND" device=""/>
 <part name="X1" library="mylib" deviceset="TSW-114-02-S-S" device=""/>
 <part name="ICON1" library="mylib" deviceset="ICON_OSHW" device=""/>
-<part name="ICON2" library="mylib" deviceset="ICON_REVISION" device="_2.0"/>
+<part name="ICON2" library="mylib" deviceset="ICON_REVISION" device="_2.0" value="r0.1"/>
 <part name="P5" library="mylib" deviceset="PCB_CORNER" device="_NH"/>
 <part name="P6" library="mylib" deviceset="PCB_CORNER" device=""/>
 <part name="SUPPLY5" library="mylib" deviceset="GND" device=""/>
@@ -1189,7 +1189,7 @@ Source: Samtec TSW.pdf</description>
 <instance part="X1" gate="-12" x="55.88" y="162.56" rot="MR180"/>
 <instance part="X1" gate="-13" x="55.88" y="165.1" rot="MR180"/>
 <instance part="X1" gate="-14" x="55.88" y="167.64" rot="MR180"/>
-<instance part="ICON1" gate="G$1" x="246.38" y="22.86"/>
+<instance part="ICON1" gate="G$1" x="246.38" y="21.59"/>
 <instance part="ICON2" gate="G$1" x="162.56" y="7.62"/>
 <instance part="P5" gate="G$1" x="144.78" y="10.16" rot="R270"/>
 <instance part="P6" gate="G$1" x="152.4" y="10.16"/>
